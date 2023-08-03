@@ -34,7 +34,7 @@
 </div>
     <br>
 
-Tenho 21 anos, apaixonado por tecnologia, estudante focado
+Tenho 22 anos, apaixonado por tecnologia, estudante focado
 em se aprimorar para iniciar a carreira como frontend dev.
 
 
