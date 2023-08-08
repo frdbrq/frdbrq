@@ -5,7 +5,7 @@
 )](https://www.linkedin.com/in/frederico-buarque/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/fredbrq/)
-<a href="mailto:fredericobrqfilho@gmail.com> <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredericobrqfilho@gmail.com).
 
 ![Fred's GitHub stats](https://github-readme-stats.vercel.app/api?username=frdbrq&show_icons=true&theme=tokyonight)
 
