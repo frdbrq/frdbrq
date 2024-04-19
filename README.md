@@ -34,7 +34,6 @@
 </div>
     <br>
 
-Tenho 22 anos, apaixonado por tecnologia e desenvolver sites!
 
 
 
