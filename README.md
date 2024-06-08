@@ -8,10 +8,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredericobrqfilho@gmail.com).
 
 ### Resumo
- Estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista e Alura desde 2023,<br>
-sou apaixonado por tecnologia desde a infância, decidi ingressar na área para mudar a minha forma <br>
-de enxergar o problema como um bicho de sete cabeças e começar a pensar em uma maneira para<br>
-resolvê-lo. Possuo conhecimento em Typescript, React, SQL, Java e Springboot. <br>
+  Estudante de Análise e Desenvolvimento de Sistemas na <br>
+ Universidade Paulista, possuo conhecimento em Excel, Typescript,<br>
+ React, SQL, Java e Springboot. <br>
 
 <br>
 
