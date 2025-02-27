@@ -5,7 +5,7 @@
 )](https://www.linkedin.com/in/frederico-buarque/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fredericobrqfilho@gmail.com).
 
-### Resumo
+### Frederico Buarque
   - Olá, tenho 24 anos, desenvolvedor C# e .NET.
   - Apaixonado por tecnologias
   - Estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista.
